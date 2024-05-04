@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/0X5x8Vw/albert-dera-ILip77-Sbm-OE-unsplash.jpg",
+      "email": "client1@example.com",
+      "feedback": "Dunphy Estate made the process of finding my dream home incredibly easy. Their agents were knowledgeable, professional, and truly cared about finding the perfect fit for me.",
+      "address": "123 Main Street, Cityville, USA"
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/sgmQxjB/tim-bogdanov-4uoj-MEdcw-I8-unsplash.jpg",
+      "email": "client2@example.com",
+      "feedback": "I was impressed by the global reach of Dunphy Estate. They helped me find an amazing property in a country I had never even considered before. Their service is exceptional.",
+      "address": "456 Elm Avenue, Townsville, Australia"
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/bsF8rkB/brooke-cagle-w-KOKid-NT14w-unsplash.jpg",
+      "email": "client3@example.com",
+      "feedback": "Working with Dunphy Estate was a pleasure from start to finish. Their attention to detail and commitment to finding the perfect home for my family exceeded all expectations.",
+      "address": "789 Oak Lane, Villageton, Canada"
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/t4R6Qr3/larm-rmah-R1-Ku62-Z7zq-E-unsplash.jpg",
+      "email": "client4@example.com",
+      "feedback": "I can't thank Dunphy Estate enough for helping me sell my property quickly and at the right price. Their expertise and dedication to client satisfaction are unmatched.",
+      "address": "101 Pine Street, Hamletown, UK"
+    },
+    {
+      "id": 5,
+      "img": "https://i.ibb.co/kg5gWYf/aiony-haust-3-TLl-97-HNJo-unsplash.jpg",
+      "email": "client5@example.com",
+      "feedback": "Dunphy Estate provided exceptional service throughout the entire process. They listened to my needs and found me the perfect apartment in my desired neighborhood.",
+      "address": "222 Maple Avenue, Suburbia, USA"
+    },
+    {
+      "id": 6,
+      "img": "https://i.ibb.co/Gt5ctf2/glenn-carstens-peters-npx-XWg-Q33-ZQ-unsplash.jpg",
+      "email": "client6@example.com",
+      "feedback": "I highly recommend Dunphy Estate to anyone looking to buy or sell property. Their professionalism and attention to detail are unmatched. I couldn't be happier with my experience.",
+      "address": "333 Cedar Street, Ruralville, Canada"
+    },
+    {
+      "id": 7,
+      "img": "https://i.ibb.co/PCXpc7C/pexels-cottonbro-studio-4253312.jpg",
+      "email": "client7@example.com",
+      "feedback": "Dunphy Estate went above and beyond to ensure a smooth and stress-free buying experience. Their agents were responsive, knowledgeable, and always had my best interests at heart.",
+      "address": "444 Birch Lane, Townsville, Australia"
+    },
+    {
+      "id": 8,
+      "img": "https://i.ibb.co/n3Rbd7p/jess-bailey-q10-VITr-VYUM-unsplash.jpg",
+      "email": "client8@example.com",
+      "feedback": "I couldn't be happier with the service I received from Dunphy Estate. Their team helped me find the perfect investment property and provided valuable insights every step of the way.",
+      "address": "555 Walnut Street, Cityville, USA"
+    },
+    {
+      "id": 9,
+      "img": "https://i.ibb.co/LnsYTsd/retrosupply-j-Lw-VAUt-LOAQ-unsplash.jpg",
+      "email": "client9@example.com",
+      "feedback": "Dunphy Estate exceeded my expectations in every way. Their professionalism, expertise, and dedication to client satisfaction set them apart from the rest. Highly recommend!",
+      "address": "666 Oak Avenue, Hamletown, UK"
+    }
+  ]
+  
